@@ -1,0 +1,2 @@
+#!/bin/bang
+tail -1 iacta >> iacta
